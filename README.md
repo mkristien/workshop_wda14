@@ -1,3 +1,5 @@
 # workshop_wda14
-prsi
-Pracujem z domu.
+mam rada python
+
+
+Toto je moj novy riadok.
