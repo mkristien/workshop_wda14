@@ -1,5 +1,5 @@
 # workshop_wda14
-mam rada python
-
-
+programujem v javascripte
+prsi
+neprsi
 Toto je moj novy riadok.
