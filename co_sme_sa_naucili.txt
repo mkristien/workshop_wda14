@@ -1,0 +1,8 @@
+instalacia GIT Hub
+instalacia GIT Kraken
+vytvaranie suborov
+urobenie commit
+zdielanie pre ostatnych - Push
+stiahnutie zmien od ostatnych - Pull
+riesenie konfliktov - otvorenie suboru, oznacenie co nechat, commit, Push
+casto davat Pull - mat cerstve zmeny ostatnych
