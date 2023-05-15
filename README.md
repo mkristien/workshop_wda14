@@ -1,2 +1,2 @@
 # workshop_wda14
-mam rada python
+mam rada Turboo Pascal
