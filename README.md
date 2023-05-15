@@ -5,3 +5,6 @@ mam rada python
 prsi
 stale prsi
 >>>>>>> Stashed changes
+
+
+Toto je moj novy riadok.
