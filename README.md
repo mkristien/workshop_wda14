@@ -1,5 +1,5 @@
 # workshop_wda14
-prsi
+mam rada python
 
 
 Toto je moj novy riadok.
