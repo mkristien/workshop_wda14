@@ -6,3 +6,5 @@ prsi
 neprsi
 stale prsi
 Toto je moj novy riadok.
+
+skuska
