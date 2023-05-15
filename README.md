@@ -1,5 +1,6 @@
 # workshop_wda14
-mam rada python
+prsi
+neprsi
 
 
 Toto je moj novy riadok.
