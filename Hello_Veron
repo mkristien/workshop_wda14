@@ -1,0 +1,12 @@
+import datetime as dt
+
+def questions():
+    name = input("What's your name?") 
+    birthday = input('Whats your birth date? (D.M.Y) : ' )
+    birthdate=dt.datetime.strptime(birthday,"%d.%m.%Y").date() 
+
+    today = dt.date.today()
+
+    age = today.year - birthdate.year - ((today.month, today.day) < (birthdate.month, birthdate.day))
+    
+    print(f'{name} is {age} years old.')
