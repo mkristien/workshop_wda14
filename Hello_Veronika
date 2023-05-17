@@ -1,0 +1,28 @@
+command = ""
+started = False
+
+while True:
+    command = input('What do you want to do with a car? ').lower()
+    if command == 'start':
+        if started:
+            print('Car is already started!')
+        else:
+            started = True
+            print('You have started your car.')
+    elif command == 'stop':
+        if not started:
+            print('The car is already stopped!')
+        else:
+            started = False
+            print('You have stopped your car.')
+    elif command == 'turn left':
+        print('You have turned to left.')
+    elif command == 'turn right':
+        print('You have turned to right.')
+    elif command == 'help':
+        print('start/stop/turn left/turn right/quit')
+    elif command == 'quit':
+        print('You have quit the car.')
+        break
+    else:
+        print("Wrong command.")   
