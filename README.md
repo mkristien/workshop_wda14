@@ -8,3 +8,4 @@ stale prsi
 Toto je moj novy riadok.
 
 skuska
+skuska2
